@@ -7,3 +7,7 @@
 
 2. Theorem
    - [Event Loop 運作機制](https://yu-jack.github.io/2021/03/14/node-event-loop/)
+3. Syntax     
+   - [Difference between module.exports and exports in Node.js](https://www.geeksforgeeks.org/difference-between-module-exports-and-exports-in-node-js/)
+4. Typescript
+   - [TypeScript 編譯設定 - tsconfig.json](https://ithelp.ithome.com.tw/articles/10216636)

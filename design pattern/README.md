@@ -14,7 +14,7 @@
 6. Decorator
    - [初探設計模式 - 裝飾模式](https://ithelp.ithome.com.tw/articles/10203738)
    - [裝飾模式 - 更好的例子](https://rongli.gitbooks.io/design-pattern/content/chapter8.html)
-7.  Observer Pattern
+7. Observer Pattern
    - [初探設計模式 - 觀察者模式](https://ithelp.ithome.com.tw/articles/10204117)
 8. Command Pattern
    - [初探設計模式 - 命令模式](https://ithelp.ithome.com.tw/articles/10204425)

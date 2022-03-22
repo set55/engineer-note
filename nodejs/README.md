@@ -8,6 +8,8 @@
    - 自製套件
       - [Private npm packages in Github package registry](https://levelup.gitconnected.com/private-npm-packages-in-github-package-registry-fbfda43acab3)
       - [發佈 npm 套件 - 從手動到自動](https://pjchender.dev/devops/devops-publish-npm-0)
+      - [利用github action自動發布npm套件](https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages)
+      - [產生npm access token](https://docs.npmjs.com/creating-and-viewing-access-tokens)
 2. Theorem
    - [Event Loop 運作機制](https://yu-jack.github.io/2021/03/14/node-event-loop/)
 3. Syntax     

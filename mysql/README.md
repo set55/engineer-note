@@ -15,3 +15,4 @@
    - [ERROR 1044(42000): Access denied for user](https://blog.csdn.net/Carolinedy/article/details/81167772)
 3. 疑問
    - [where 1 的用途](https://stackoverflow.com/questions/1983655/importance-of-where-1-in-mysql-queries)
+   - [對於 MySQL Repeatable Read Isolation 常見的三個誤解](https://medium.com/@chester.yw.chu/%E5%B0%8D%E6%96%BC-mysql-repeatable-read-isolation-%E5%B8%B8%E8%A6%8B%E7%9A%84%E4%B8%89%E5%80%8B%E8%AA%A4%E8%A7%A3-7a9afbac65af)

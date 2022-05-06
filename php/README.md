@@ -12,3 +12,5 @@
    - [Ubuntu安装Redis及PHP安装phpRedis插件](https://www.jerrycoding.com/article/phpredis/)
 4. Laravel
    - [Laravel Observer](https://learnku.com/articles/6657/model-events-and-observer-in-laravel)
+   - [How To Import A Csv / Excel File In Laravel](https://medium.com/technology-hits/how-to-import-a-csv-excel-file-in-laravel-d50f93b98aa4)
+   - [Full User Authentication and Access Control: A Laravel Passport Tutorial](https://www.toptal.com/laravel/passport-tutorial-auth-user-access)

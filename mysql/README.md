@@ -2,7 +2,6 @@
 
 1. 基本
    - [Mysql Foreign Key](https://b-l-u-e-b-e-r-r-y.github.io/post/ForeignKey/)
-
 1. 權限
    - [mysql user權限設定](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
 2. 優化
